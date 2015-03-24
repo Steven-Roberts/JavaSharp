@@ -1,0 +1,575 @@
+.jssheet
+Some Nights
+100
+BeginSheet
+BeginST
+53
+Voice Oohs  
+BeginM
+Note 0 64 Quarter false
+Note 16 64 Eighth false
+Note 24 64 Eighth false
+Note 32 68 Eighth false
+Note 40 71 Eighth false
+Note 48 71 Quarter false
+EndM
+BeginM
+Note 0 73 Eighth false
+Note 8 73 Eighth false
+Note 16 73 Eighth false
+Note 24 71 Eighth false
+Note 32 68 Quarter false
+Note 48 66 Sixteenth false
+Note 52 64 Dotted-Eighth false
+EndM
+BeginM
+Rest 0 Eighth
+Note 8 73 Eighth false
+Note 16 73 Eighth false
+Note 24 71 Eighth false
+Note 32 68 Quarter false
+Note 48 66 Eighth false
+Note 56 66 Eighth false
+EndM
+BeginM
+Note 0 66 Quarter false
+Rest 16 Quarter
+Rest 32 Half
+EndM
+BeginM
+Note 0 64 Quarter false
+Note 16 64 Eighth false
+Note 24 64 Eighth false
+Note 32 68 Eighth false
+Note 40 71 Eighth false
+Note 48 71 Eighth false
+Note 56 73 Eighth false
+EndM
+BeginM
+Note 0 73 Eighth false
+Note 8 73 Eighth false
+Note 16 73 Eighth false
+Note 24 71 Eighth false
+Note 32 68 Quarter false
+Note 48 66 Sixteenth false
+Note 52 64 Dotted-Eighth false
+EndM
+BeginM
+Rest 0 Eighth
+Note 8 73 Eighth false
+Note 16 73 Eighth false
+Note 24 71 Eighth false
+Note 32 71 Eighth false
+Note 40 71 Eighth false
+Note 48 71 Eighth false
+Note 56 66 Eighth false
+EndM
+BeginM
+Note 0 66 Quarter false
+Rest 16 Quarter
+Rest 32 Quarter
+Note 48 69 Sixteenth false
+Note 52 71 Dotted-Eighth false
+EndM
+BeginM
+Note 0 73 Dotted-Eighth false
+Note 12 73 Dotted-Eighth false
+Note 24 71 Sixteenth false
+Note 28 69 Sixteenth false
+Note 32 68 Quarter false
+Note 48 68 Eighth false
+Note 56 71 Eighth false
+EndM
+BeginM
+Note 0 73 Dotted-Eighth false
+Note 12 73 Dotted-Eighth false
+Note 24 71 Quarter false
+Note 40 64 Eighth false
+Note 48 68 Eighth false
+Note 56 71 Eighth false
+EndM
+BeginM
+Note 0 73 Dotted-Eighth false
+Note 12 73 Dotted-Eighth false
+Note 24 71 Sixteenth false
+Note 28 69 Sixteenth false
+Note 32 68 Quarter false
+Note 48 68 Sixteenth false
+Note 52 69 Dotted-Eighth false
+EndM
+BeginM
+Note 0 68 Dotted-Eighth false
+Note 12 66 Sixteenth false
+Rest 16 Eighth
+Note 24 69 Dotted-Quarter false
+Note 48 68 Eighth false
+Note 56 66 Eighth false
+EndM
+EndST
+BeginST
+53
+Voice Oohs  
+BeginM
+Note 0 64 Quarter false
+Note 16 64 Eighth false
+Note 24 64 Eighth false
+Note 32 68 Eighth false
+Note 40 71 Eighth false
+Note 48 71 Quarter false
+EndM
+BeginM
+Note 0 73 Eighth false
+Note 8 73 Eighth false
+Note 16 73 Eighth false
+Note 24 71 Eighth false
+Note 32 68 Quarter false
+Note 48 66 Sixteenth false
+Note 52 64 Dotted-Eighth false
+EndM
+BeginM
+Rest 0 Eighth
+Note 8 69 Eighth false
+Note 16 69 Eighth false
+Note 24 68 Eighth false
+Note 32 68 Quarter false
+Note 48 64 Eighth false
+Note 56 64 Eighth false
+EndM
+BeginM
+Note 0 66 Quarter false
+Rest 16 Quarter
+Rest 32 Half
+EndM
+BeginM
+Note 0 64 Quarter false
+Note 16 64 Eighth false
+Note 24 64 Eighth false
+Note 32 68 Eighth false
+Note 40 71 Eighth false
+Note 48 71 Eighth false
+Note 56 73 Eighth false
+EndM
+BeginM
+Note 0 73 Eighth false
+Note 8 73 Eighth false
+Note 16 73 Eighth false
+Note 24 71 Eighth false
+Note 32 68 Quarter false
+Note 48 66 Sixteenth false
+Note 52 64 Dotted-Eighth false
+EndM
+BeginM
+Rest 0 Eighth
+Note 8 69 Eighth false
+Note 16 69 Eighth false
+Note 24 68 Eighth false
+Note 32 68 Eighth false
+Note 40 68 Eighth false
+Note 48 68 Eighth false
+Note 56 64 Eighth false
+EndM
+BeginM
+Note 0 66 Quarter false
+Rest 16 Quarter
+Rest 32 Quarter
+Note 48 66 Sixteenth false
+Note 52 68 Dotted-Eighth false
+EndM
+BeginM
+Note 0 69 Dotted-Eighth false
+Note 12 69 Dotted-Eighth false
+Note 24 68 Sixteenth false
+Note 28 66 Sixteenth false
+Note 32 64 Quarter false
+Note 48 64 Eighth false
+Note 56 68 Eighth false
+EndM
+BeginM
+Note 0 69 Dotted-Eighth false
+Note 12 69 Dotted-Eighth false
+Note 24 68 Quarter false
+Note 40 59 Eighth false
+Note 48 64 Eighth false
+Note 56 68 Eighth false
+EndM
+BeginM
+Note 0 69 Dotted-Eighth false
+Note 12 69 Dotted-Eighth false
+Note 24 68 Sixteenth false
+Note 28 66 Sixteenth false
+Note 32 64 Quarter false
+Note 48 64 Sixteenth false
+Note 52 66 Dotted-Eighth false
+EndM
+BeginM
+Note 0 64 Dotted-Eighth false
+Note 12 63 Sixteenth false
+Rest 16 Eighth
+Note 24 66 Dotted-Quarter false
+Note 48 68 Eighth false
+Note 56 71 Eighth false
+EndM
+EndST
+BeginST
+53
+Voice Oohs  
+BeginM
+Note 0 59 Quarter false
+Note 16 59 Eighth false
+Note 24 59 Eighth false
+Note 32 64 Eighth false
+Note 40 68 Eighth false
+Note 48 68 Quarter false
+EndM
+BeginM
+Note 0 69 Eighth false
+Note 8 69 Eighth false
+Note 16 69 Eighth false
+Note 24 68 Eighth false
+Note 32 64 Quarter false
+Note 48 61 Sixteenth false
+Note 52 59 Dotted-Eighth false
+EndM
+BeginM
+Rest 0 Eighth
+Note 8 64 Eighth false
+Note 16 64 Eighth false
+Note 24 64 Eighth false
+Note 32 64 Quarter false
+Note 48 64 Eighth false
+Note 56 63 Eighth false
+EndM
+BeginM
+Note 0 63 Quarter false
+Rest 16 Quarter
+Rest 32 Half
+EndM
+BeginM
+Note 0 59 Quarter false
+Note 16 59 Eighth false
+Note 24 59 Eighth false
+Note 32 64 Eighth false
+Note 40 68 Eighth false
+Note 48 68 Eighth false
+Note 56 69 Eighth false
+EndM
+BeginM
+Note 0 69 Eighth false
+Note 8 69 Eighth false
+Note 16 69 Eighth false
+Note 24 68 Eighth false
+Note 32 64 Quarter false
+Note 48 61 Sixteenth false
+Note 52 59 Dotted-Eighth false
+EndM
+BeginM
+Rest 0 Eighth
+Note 8 64 Eighth false
+Note 16 64 Eighth false
+Note 24 64 Eighth false
+Note 32 64 Eighth false
+Note 40 64 Eighth false
+Note 48 64 Eighth false
+Note 56 63 Eighth false
+EndM
+BeginM
+Note 0 63 Quarter false
+Rest 16 Quarter
+Rest 32 Quarter
+Note 48 61 Sixteenth false
+Note 52 64 Dotted-Eighth false
+EndM
+BeginM
+Note 0 64 Dotted-Eighth false
+Note 12 64 Dotted-Eighth false
+Note 24 64 Sixteenth false
+Note 28 61 Sixteenth false
+Note 32 59 Quarter false
+Note 48 59 Eighth false
+Note 56 64 Eighth false
+EndM
+BeginM
+Note 0 64 Dotted-Eighth false
+Note 12 64 Dotted-Eighth false
+Note 24 64 Quarter false
+Note 40 56 Eighth false
+Note 48 59 Eighth false
+Note 56 64 Eighth false
+EndM
+BeginM
+Note 0 64 Dotted-Eighth false
+Note 12 64 Dotted-Eighth false
+Note 24 64 Sixteenth false
+Note 28 61 Sixteenth false
+Note 32 59 Quarter false
+Note 48 59 Sixteenth false
+Note 52 61 Dotted-Eighth false
+EndM
+BeginM
+Note 0 59 Dotted-Eighth false
+Note 12 59 Sixteenth false
+Rest 16 Eighth
+Note 24 62 Dotted-Quarter false
+Note 48 61 Eighth false
+Note 56 59 Eighth false
+EndM
+EndST
+BeginST
+53
+Voice Oohs  
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Eighth
+Note 8 61 Eighth false
+Note 16 61 Eighth false
+Note 24 59 Eighth false
+Rest 32 Half
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Eighth
+Note 8 61 Eighth false
+Note 16 61 Eighth false
+Note 24 59 Eighth false
+Note 32 59 Eighth false
+Rest 40 Eighth
+Rest 48 Quarter
+EndM
+EndST
+BeginST
+53
+Voice Oohs  
+BeginM
+Note 0 68 Quarter false
+Note 16 68 Eighth false
+Note 24 68 Eighth false
+Note 32 71 Eighth false
+Note 40 76 Eighth false
+Note 48 76 Quarter false
+EndM
+BeginM
+Note 0 76 Eighth false
+Note 8 76 Eighth false
+Note 16 76 Eighth false
+Note 24 76 Eighth false
+Note 32 71 Quarter false
+Note 48 69 Sixteenth false
+Note 52 68 Dotted-Eighth false
+EndM
+BeginM
+Rest 0 Eighth
+Note 8 69 Eighth false
+Note 16 69 Eighth false
+Note 24 68 Eighth false
+Note 32 71 Quarter false
+Note 48 71 Eighth false
+Note 56 71 Eighth false
+EndM
+BeginM
+Note 0 71 Quarter false
+Rest 16 Quarter
+Rest 32 Half
+EndM
+BeginM
+Note 0 68 Quarter false
+Note 16 68 Eighth false
+Note 24 68 Eighth false
+Note 32 71 Eighth false
+Note 40 76 Eighth false
+Note 48 76 Eighth false
+Note 56 76 Eighth false
+EndM
+BeginM
+Note 0 76 Eighth false
+Note 8 76 Eighth false
+Note 16 76 Eighth false
+Note 24 76 Eighth false
+Note 32 71 Quarter false
+Note 48 69 Sixteenth false
+Note 52 68 Dotted-Eighth false
+EndM
+BeginM
+Rest 0 Eighth
+Note 8 69 Eighth false
+Note 16 69 Eighth false
+Note 24 68 Eighth false
+Note 32 68 Eighth false
+Note 40 68 Eighth false
+Note 48 71 Eighth false
+Note 56 71 Eighth false
+EndM
+BeginM
+Note 0 71 Quarter false
+Rest 16 Quarter
+Rest 32 Quarter
+Note 48 69 Sixteenth false
+Note 52 71 Dotted-Eighth false
+EndM
+BeginM
+Note 0 73 Dotted-Eighth false
+Note 12 73 Dotted-Eighth false
+Note 24 71 Sixteenth false
+Note 28 69 Sixteenth false
+Note 32 68 Quarter false
+Note 48 68 Eighth false
+Note 56 71 Eighth false
+EndM
+BeginM
+Note 0 73 Dotted-Eighth false
+Note 12 73 Dotted-Eighth false
+Note 24 71 Quarter false
+Note 40 64 Eighth false
+Note 48 68 Eighth false
+Note 56 71 Eighth false
+EndM
+BeginM
+Note 0 73 Dotted-Eighth false
+Note 12 73 Dotted-Eighth false
+Note 24 71 Sixteenth false
+Note 28 69 Sixteenth false
+Note 32 68 Quarter false
+Note 48 68 Sixteenth false
+Note 52 69 Dotted-Eighth false
+EndM
+BeginM
+Note 0 68 Dotted-Eighth false
+Note 12 66 Sixteenth false
+Rest 16 Eighth
+Note 24 69 Dotted-Quarter false
+Note 48 68 Eighth false
+Note 56 66 Eighth false
+EndM
+EndST
+BeginST
+53
+Voice Oohs  
+BeginM
+Note 0 64 Quarter false
+Note 16 64 Eighth false
+Note 24 64 Eighth false
+Note 32 68 Eighth false
+Note 40 71 Eighth false
+Note 48 71 Quarter false
+EndM
+BeginM
+Note 0 73 Eighth false
+Note 8 73 Eighth false
+Note 16 73 Eighth false
+Note 24 71 Eighth false
+Note 32 68 Quarter false
+Note 48 66 Sixteenth false
+Note 52 64 Dotted-Eighth false
+EndM
+BeginM
+Rest 0 Eighth
+Note 8 64 Eighth false
+Note 16 64 Eighth false
+Note 24 64 Eighth false
+Note 32 68 Quarter false
+Note 48 68 Eighth false
+Note 56 66 Eighth false
+EndM
+BeginM
+Note 0 66 Quarter false
+Rest 16 Quarter
+Rest 32 Half
+EndM
+BeginM
+Note 0 64 Quarter false
+Note 16 64 Eighth false
+Note 24 64 Eighth false
+Note 32 68 Eighth false
+Note 40 71 Eighth false
+Note 48 71 Quarter false
+EndM
+BeginM
+Note 0 73 Eighth false
+Note 8 73 Eighth false
+Note 16 73 Eighth false
+Note 24 71 Eighth false
+Note 32 68 Eighth false
+Note 40 68 Eighth false
+Note 48 66 Sixteenth false
+Note 52 64 Dotted-Eighth false
+EndM
+BeginM
+Rest 0 Eighth
+Note 8 64 Eighth false
+Note 16 64 Eighth false
+Note 24 64 Eighth false
+Note 32 68 Eighth false
+Note 40 68 Eighth false
+Note 48 68 Eighth false
+Note 56 66 Eighth false
+EndM
+BeginM
+Note 0 66 Quarter false
+Rest 16 Quarter
+Rest 32 Quarter
+Rest 48 Quarter
+EndM
+EndST
+BeginST
+53
+Voice Oohs  
+BeginM
+Rest 0 Quarter
+Rest 16 Quarter
+Rest 32 Half
+EndM
+BeginM
+Rest 0 Eighth
+Rest 8 Eighth
+Rest 16 Quarter
+Rest 32 Half
+EndM
+BeginM
+Rest 0 Eighth
+Note 8 57 Eighth false
+Note 16 57 Eighth false
+Note 24 59 Eighth false
+Note 32 64 Quarter false
+Note 48 64 Eighth false
+Note 56 59 Eighth false
+EndM
+BeginM
+Note 0 59 Quarter false
+Rest 16 Quarter
+Rest 32 Half
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Eighth
+Note 8 57 Eighth false
+Note 16 57 Eighth false
+Note 24 59 Eighth false
+Note 32 64 Eighth false
+Note 40 64 Eighth false
+Note 48 64 Eighth false
+Note 56 59 Eighth false
+EndM
+BeginM
+Note 0 59 Quarter false
+Rest 16 Quarter
+Rest 32 Half
+EndM
+EndST
+EndSheet

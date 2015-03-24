@@ -1,0 +1,265 @@
+.jssheet
+Lost Woods
+145
+BeginSheet
+BeginST
+79
+Ocarina     
+BeginM
+Note 0 65 Eighth false
+Note 8 69 Eighth false
+Note 16 71 Quarter false
+Note 32 67 Eighth false
+Note 40 69 Eighth false
+Note 48 71 Quarter false
+EndM
+BeginM
+Note 0 65 Eighth false
+Note 8 69 Eighth false
+Note 16 71 Eighth false
+Note 24 76 Eighth false
+Note 32 74 Quarter false
+Note 48 71 Eighth false
+Note 56 72 Eighth false
+EndM
+BeginM
+Note 0 71 Eighth false
+Note 8 67 Eighth false
+Note 16 64 Half false
+Rest 48 Eighth
+Note 56 62 Eighth false
+EndM
+BeginM
+Note 0 64 Eighth false
+Note 8 67 Eighth false
+Note 16 64 Half false
+Rest 48 Quarter
+EndM
+BeginM
+Note 0 65 Eighth false
+Note 8 69 Eighth false
+Note 16 71 Quarter false
+Note 32 65 Eighth false
+Note 40 69 Eighth false
+Note 48 71 Quarter false
+EndM
+BeginM
+Note 0 65 Eighth false
+Note 8 69 Eighth false
+Note 16 71 Eighth false
+Note 24 76 Eighth false
+Note 32 74 Quarter false
+Note 48 71 Eighth false
+Note 56 72 Eighth false
+EndM
+BeginM
+Note 0 76 Eighth false
+Note 8 71 Eighth false
+Note 16 67 Half false
+Rest 48 Eighth
+Note 56 71 Eighth false
+EndM
+BeginM
+Note 0 67 Eighth false
+Note 8 62 Eighth false
+Note 16 64 Half false
+Rest 48 Quarter
+EndM
+BeginM
+Note 0 62 Eighth false
+Note 8 64 Eighth false
+Note 16 65 Quarter false
+Note 32 67 Eighth false
+Note 40 69 Eighth false
+Note 48 71 Quarter false
+EndM
+BeginM
+Note 0 72 Eighth false
+Note 8 71 Eighth false
+Note 16 64 Half false
+Rest 48 Quarter
+EndM
+BeginM
+Note 0 62 Eighth false
+Note 8 64 Eighth false
+Note 16 65 Quarter false
+Note 32 67 Eighth false
+Note 40 69 Eighth false
+Note 48 71 Quarter false
+EndM
+BeginM
+Note 0 72 Eighth false
+Note 8 74 Eighth false
+Note 16 76 Half false
+Rest 48 Quarter
+EndM
+BeginM
+Note 0 62 Eighth false
+Note 8 64 Eighth false
+Note 16 65 Quarter false
+Note 32 67 Eighth false
+Note 40 69 Eighth false
+Note 48 71 Quarter false
+EndM
+BeginM
+Note 0 72 Eighth false
+Note 8 71 Eighth false
+Note 16 64 Half false
+Rest 48 Quarter
+EndM
+BeginM
+Note 0 62 Eighth false
+Note 8 60 Eighth false
+Note 16 65 Eighth false
+Note 24 64 Eighth false
+Note 32 67 Eighth false
+Note 40 65 Eighth false
+Note 48 69 Eighth false
+Note 56 67 Eighth false
+EndM
+BeginM
+Note 0 71 Eighth false
+Note 8 69 Eighth false
+Note 16 72 Eighth false
+Note 24 71 Eighth false
+Note 32 74 Eighth false
+Note 40 72 Eighth false
+Note 48 71 Sixteenth false
+Note 52 72 Eighth false
+Note 60 69 Sixteenth false
+EndM
+BeginM
+Note 0 71 Whole false
+EndM
+EndST
+BeginST
+75
+Pan Flute   
+BeginM
+Note 0 65 Eighth false
+Note 8 69 Eighth false
+Note 16 71 Quarter false
+Note 32 65 Eighth false
+Note 40 69 Eighth false
+Note 48 71 Quarter false
+EndM
+BeginM
+Note 0 65 Eighth false
+Note 8 69 Eighth false
+Note 16 71 Eighth false
+Note 24 76 Eighth false
+Note 32 74 Quarter false
+Note 48 71 Eighth false
+Note 56 72 Eighth false
+EndM
+BeginM
+Note 0 71 Eighth false
+Note 8 67 Eighth false
+Note 16 64 Half false
+Rest 48 Eighth
+Note 56 62 Eighth false
+EndM
+BeginM
+Note 0 64 Eighth false
+Note 8 67 Eighth false
+Note 16 64 Half false
+Rest 48 Quarter
+EndM
+BeginM
+Note 0 65 Eighth false
+Note 8 69 Eighth false
+Note 16 71 Quarter false
+Note 32 65 Eighth false
+Note 40 69 Eighth false
+Note 48 71 Quarter false
+EndM
+BeginM
+Note 0 65 Eighth false
+Note 8 69 Eighth false
+Note 16 71 Eighth false
+Note 24 76 Eighth false
+Note 32 74 Quarter false
+Note 48 71 Eighth false
+Note 56 72 Eighth false
+EndM
+BeginM
+Note 0 76 Eighth false
+Note 8 71 Eighth false
+Note 16 67 Half false
+Rest 48 Eighth
+Note 56 71 Eighth false
+EndM
+BeginM
+Note 0 67 Eighth false
+Note 8 62 Eighth false
+Note 16 64 Half false
+Rest 48 Quarter
+EndM
+BeginM
+Note 0 62 Eighth false
+Note 8 64 Eighth false
+Note 16 65 Quarter false
+Note 32 67 Eighth false
+Note 40 69 Eighth false
+Note 48 71 Quarter false
+EndM
+BeginM
+Note 0 72 Eighth false
+Note 8 71 Eighth false
+Note 16 64 Half false
+Rest 48 Quarter
+EndM
+BeginM
+Note 0 65 Eighth false
+Note 8 67 Eighth false
+Note 16 69 Quarter false
+Note 32 71 Eighth false
+Note 40 72 Eighth false
+Note 48 74 Quarter false
+EndM
+BeginM
+Note 0 76 Eighth false
+Note 8 77 Eighth false
+Note 16 79 Half false
+Rest 48 Quarter
+EndM
+BeginM
+Note 0 62 Eighth false
+Note 8 64 Eighth false
+Note 16 65 Quarter false
+Note 32 67 Eighth false
+Note 40 69 Eighth false
+Note 48 71 Quarter false
+EndM
+BeginM
+Note 0 72 Eighth false
+Note 8 71 Eighth false
+Note 16 64 Half false
+Rest 48 Quarter
+EndM
+BeginM
+Note 0 65 Eighth false
+Note 8 64 Eighth false
+Note 16 69 Eighth false
+Note 24 67 Eighth false
+Note 32 71 Eighth false
+Note 40 69 Eighth false
+Note 48 72 Eighth false
+Note 56 71 Eighth false
+EndM
+BeginM
+Note 0 74 Eighth false
+Note 8 72 Eighth false
+Note 16 76 Eighth false
+Note 24 74 Eighth false
+Note 32 77 Eighth false
+Note 40 76 Eighth false
+Note 48 76 Sixteenth false
+Note 52 77 Eighth false
+Note 60 74 Sixteenth false
+EndM
+BeginM
+Note 0 76 Whole false
+EndM
+EndST
+EndSheet

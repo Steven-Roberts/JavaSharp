@@ -1,0 +1,474 @@
+.jssheet
+The Final Countdown
+116
+BeginSheet
+BeginST
+62
+Synth Brass1
+BeginM
+Rest 0 Quarter
+Rest 16 Eighth
+Note 24 73 Sixteenth false
+Note 28 71 Sixteenth false
+Note 32 73 Quarter false
+Note 48 66 Quarter false
+EndM
+BeginM
+Rest 0 Quarter
+Rest 16 Eighth
+Note 24 74 Sixteenth false
+Note 28 73 Sixteenth false
+Note 32 74 Eighth false
+Note 40 73 Eighth false
+Note 48 71 Quarter false
+EndM
+BeginM
+Rest 0 Eighth
+Rest 8 Eighth
+Rest 16 Eighth
+Note 24 74 Sixteenth false
+Note 28 73 Sixteenth false
+Note 32 74 Quarter false
+Note 48 66 Quarter false
+EndM
+BeginM
+Rest 0 Quarter
+Rest 16 Eighth
+Note 24 71 Sixteenth false
+Note 28 69 Sixteenth false
+Note 32 71 Eighth false
+Note 40 69 Eighth false
+Note 48 68 Eighth false
+Note 56 71 Eighth false
+EndM
+BeginM
+Note 0 69 Dotted-Quarter false
+Note 24 73 Sixteenth false
+Note 28 71 Sixteenth false
+Note 32 73 Quarter false
+Note 48 66 Quarter false
+EndM
+BeginM
+Rest 0 Eighth
+Rest 8 Eighth
+Rest 16 Eighth
+Note 24 74 Sixteenth false
+Note 28 73 Sixteenth false
+Note 32 74 Eighth false
+Note 40 73 Eighth false
+Note 48 71 Quarter false
+EndM
+BeginM
+Rest 0 Eighth
+Rest 8 Eighth
+Rest 16 Eighth
+Note 24 74 Sixteenth false
+Note 28 73 Sixteenth false
+Note 32 74 Quarter false
+Note 48 66 Quarter false
+EndM
+BeginM
+Rest 0 Quarter
+Rest 16 Eighth
+Note 24 71 Sixteenth false
+Note 28 69 Sixteenth false
+Note 32 71 Eighth false
+Note 40 69 Eighth false
+Note 48 68 Eighth false
+Note 56 71 Eighth false
+EndM
+BeginM
+Note 0 69 Dotted-Quarter false
+Note 24 73 Sixteenth false
+Note 28 71 Sixteenth false
+Note 32 73 Quarter false
+Note 48 66 Quarter false
+EndM
+BeginM
+Rest 0 Eighth
+Rest 8 Eighth
+Rest 16 Eighth
+Note 24 74 Sixteenth false
+Note 28 73 Sixteenth false
+Note 32 74 Eighth false
+Note 40 73 Eighth false
+Note 48 71 Quarter false
+EndM
+BeginM
+Rest 0 Eighth
+Rest 8 Eighth
+Rest 16 Eighth
+Note 24 74 Sixteenth false
+Note 28 73 Sixteenth false
+Note 32 74 Quarter false
+Note 48 66 Quarter false
+EndM
+BeginM
+Rest 0 Quarter
+Rest 16 Eighth
+Note 24 71 Sixteenth false
+Note 28 69 Sixteenth false
+Note 32 71 Eighth false
+Note 40 69 Eighth false
+Note 48 68 Eighth false
+Note 56 71 Eighth false
+EndM
+BeginM
+Note 0 69 Dotted-Quarter false
+Note 24 73 Sixteenth false
+Note 28 71 Sixteenth false
+Note 32 73 Quarter false
+Note 48 66 Quarter false
+EndM
+BeginM
+Rest 0 Eighth
+Rest 8 Eighth
+Rest 16 Eighth
+Note 24 74 Sixteenth false
+Note 28 73 Sixteenth false
+Note 32 74 Eighth false
+Note 40 73 Eighth false
+Note 48 71 Quarter false
+EndM
+BeginM
+Rest 0 Eighth
+Rest 8 Eighth
+Rest 16 Eighth
+Note 24 74 Sixteenth false
+Note 28 73 Sixteenth false
+Note 32 74 Quarter false
+Note 48 66 Quarter false
+EndM
+BeginM
+Rest 0 Quarter
+Rest 16 Eighth
+Note 24 71 Sixteenth false
+Note 28 69 Sixteenth false
+Note 32 71 Eighth false
+Note 40 69 Eighth false
+Note 48 68 Eighth false
+Note 56 71 Eighth false
+EndM
+BeginM
+Note 0 69 Dotted-Quarter false
+Note 24 68 Sixteenth false
+Note 28 69 Sixteenth false
+Note 32 71 Dotted-Quarter false
+Note 56 69 Sixteenth false
+Note 60 71 Sixteenth false
+EndM
+BeginM
+Note 0 73 Eighth false
+Note 8 71 Eighth false
+Note 16 69 Eighth false
+Note 24 68 Eighth false
+Note 32 66 Quarter false
+Note 48 74 Quarter false
+EndM
+BeginM
+Note 0 73 Dotted-Quarter false
+Rest 24 Sixteenth
+Note 28 73 Quarter false
+Note 44 74 Dotted-Eighth false
+Note 56 73 Sixteenth false
+Note 60 71 Sixteenth false
+EndM
+BeginM
+Note 0 73 Whole false
+EndM
+EndST
+BeginST
+51
+Syn.Strings2
+BeginM
+Note 0 73 Whole false
+EndM
+BeginM
+Note 0 74 Whole false
+EndM
+BeginM
+Note 0 74 Whole false
+EndM
+BeginM
+Note 0 71 Half false
+Note 32 71 Half false
+EndM
+BeginM
+Note 0 73 Whole false
+EndM
+BeginM
+Note 0 74 Whole false
+EndM
+BeginM
+Note 0 74 Whole false
+EndM
+BeginM
+Note 0 71 Half false
+Note 32 71 Half false
+EndM
+BeginM
+Note 0 73 Whole false
+EndM
+BeginM
+Note 0 74 Whole false
+EndM
+BeginM
+Note 0 74 Whole false
+EndM
+BeginM
+Note 0 71 Half false
+Note 32 71 Half false
+EndM
+BeginM
+Note 0 73 Whole false
+EndM
+BeginM
+Note 0 74 Whole false
+EndM
+BeginM
+Note 0 74 Whole false
+EndM
+BeginM
+Note 0 71 Half false
+Note 32 71 Half false
+EndM
+BeginM
+Note 0 73 Half false
+Note 32 76 Half false
+EndM
+BeginM
+Note 0 76 Half false
+Note 32 74 Half false
+EndM
+BeginM
+Note 0 78 Whole false
+EndM
+BeginM
+Note 0 77 Whole false
+EndM
+EndST
+BeginST
+51
+Syn.Strings2
+BeginM
+Note 0 69 Whole false
+EndM
+BeginM
+Note 0 69 Whole false
+EndM
+BeginM
+Note 0 71 Whole false
+EndM
+BeginM
+Note 0 68 Half false
+Note 32 68 Half false
+EndM
+BeginM
+Note 0 69 Whole false
+EndM
+BeginM
+Note 0 69 Whole false
+EndM
+BeginM
+Note 0 71 Whole false
+EndM
+BeginM
+Note 0 68 Half false
+Note 32 68 Half false
+EndM
+BeginM
+Note 0 69 Whole false
+EndM
+BeginM
+Note 0 69 Whole false
+EndM
+BeginM
+Note 0 71 Whole false
+EndM
+BeginM
+Note 0 68 Half false
+Note 32 68 Half false
+EndM
+BeginM
+Note 0 69 Whole false
+EndM
+BeginM
+Note 0 69 Whole false
+EndM
+BeginM
+Note 0 71 Whole false
+EndM
+BeginM
+Note 0 68 Half false
+Note 32 68 Half false
+EndM
+BeginM
+Note 0 69 Half false
+Note 32 71 Half false
+EndM
+BeginM
+Note 0 73 Half false
+Note 32 69 Half false
+EndM
+BeginM
+Note 0 73 Whole false
+EndM
+BeginM
+Note 0 73 Whole false
+EndM
+EndST
+BeginST
+51
+Syn.Strings2
+BeginM
+Note 0 66 Whole false
+EndM
+BeginM
+Note 0 66 Whole false
+EndM
+BeginM
+Note 0 66 Whole false
+EndM
+BeginM
+Note 0 64 Half false
+Note 32 65 Half false
+EndM
+BeginM
+Note 0 66 Whole false
+EndM
+BeginM
+Note 0 66 Whole false
+EndM
+BeginM
+Note 0 66 Whole false
+EndM
+BeginM
+Note 0 64 Half false
+Note 32 65 Half false
+EndM
+BeginM
+Note 0 66 Whole false
+EndM
+BeginM
+Note 0 66 Whole false
+EndM
+BeginM
+Note 0 66 Whole false
+EndM
+BeginM
+Note 0 64 Half false
+Note 32 65 Half false
+EndM
+BeginM
+Note 0 66 Whole false
+EndM
+BeginM
+Note 0 66 Whole false
+EndM
+BeginM
+Note 0 66 Whole false
+EndM
+BeginM
+Note 0 64 Half false
+Note 32 65 Half false
+EndM
+BeginM
+Note 0 66 Half false
+Note 32 68 Half false
+EndM
+BeginM
+Note 0 69 Half false
+Note 32 66 Half false
+EndM
+BeginM
+Note 0 68 Whole false
+EndM
+BeginM
+Note 0 68 Whole false
+EndM
+EndST
+BeginST
+62
+Synth Brass1
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Note 0 66 Whole false
+EndM
+BeginM
+Note 0 66 Dotted-Half false
+Note 48 64 Quarter false
+EndM
+BeginM
+Note 0 62 Whole false
+EndM
+BeginM
+Note 0 59 Half false
+Rest 32 Eighth
+Rest 40 Sixteenth
+Note 44 61 Dotted-Eighth false
+Note 56 62 Eighth false
+EndM
+BeginM
+Note 0 61 Half false
+Note 32 59 Half false
+EndM
+BeginM
+Note 0 66 Dotted-Half false
+Note 48 64 Quarter false
+EndM
+BeginM
+Note 0 62 Whole false
+EndM
+BeginM
+Note 0 59 Half false
+Rest 32 Eighth
+Rest 40 Sixteenth
+Note 44 61 Dotted-Eighth false
+Note 56 62 Eighth false
+EndM
+BeginM
+Note 0 61 Half false
+Note 32 59 Half false
+EndM
+BeginM
+Note 0 61 Half false
+Note 32 66 Eighth false
+Note 40 64 Eighth false
+Note 48 62 Eighth false
+Note 56 59 Eighth false
+EndM
+BeginM
+Note 0 61 Half false
+Note 32 66 Eighth false
+Note 40 64 Eighth false
+Note 48 62 Eighth false
+Note 56 59 Eighth false
+EndM
+BeginM
+Note 0 61 Whole false
+EndM
+BeginM
+Note 0 65 Whole false
+EndM
+EndST
+EndSheet

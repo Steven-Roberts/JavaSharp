@@ -1,0 +1,376 @@
+.jssheet
+Minecraft
+80
+BeginSheet
+BeginST
+0
+Piano 1     
+BeginM
+Note 0 67 Quarter false
+Note 16 69 Quarter false
+Note 32 71 Quarter false
+Note 48 72 Quarter false
+EndM
+BeginM
+Note 0 67 Quarter false
+Note 16 69 Quarter false
+Note 32 71 Quarter false
+Note 48 74 Quarter false
+EndM
+BeginM
+Note 0 72 Quarter false
+Note 16 71 Quarter false
+Note 32 72 Quarter false
+Note 48 74 Quarter false
+EndM
+BeginM
+Note 0 67 Whole false
+EndM
+BeginM
+Note 0 67 Quarter false
+Note 16 69 Quarter false
+Note 32 71 Quarter false
+Note 48 67 Quarter false
+EndM
+BeginM
+Note 0 64 Quarter false
+Note 16 62 Quarter false
+Note 32 67 Quarter false
+Note 48 64 Quarter false
+EndM
+BeginM
+Note 0 62 Quarter false
+Note 16 64 Eighth false
+Note 24 62 Eighth false
+Note 32 60 Quarter false
+Note 48 62 Quarter false
+EndM
+BeginM
+Note 0 64 Half false
+Note 32 67 Half false
+EndM
+BeginM
+Note 0 71 Dotted-Half false
+Note 48 69 Eighth false
+Note 56 71 Eighth false
+EndM
+BeginM
+Rest 0 Eighth
+Note 8 67 Eighth false
+Note 16 64 Eighth false
+Note 24 62 Quarter false
+Note 40 67 Eighth false
+Note 48 69 Eighth false
+Note 56 71 Eighth false
+EndM
+BeginM
+Rest 0 Eighth
+Note 8 72 Sixteenth false
+Note 12 71 Sixteenth false
+Note 16 71 Dotted-Eighth false
+Note 28 74 Sixteenth false
+Note 32 71 Quarter false
+Note 48 69 Eighth false
+Note 56 71 Eighth false
+EndM
+BeginM
+Note 0 71 Half false
+Rest 32 Half
+EndM
+BeginM
+Note 0 71 Quarter false
+Note 16 64 Quarter false
+Note 32 67 Quarter false
+Note 48 81 Eighth false
+Note 56 79 Eighth false
+EndM
+BeginM
+Rest 0 Eighth
+Note 8 74 Eighth false
+Note 16 67 Dotted-Quarter false
+Note 40 62 Eighth false
+Note 48 69 Eighth false
+Note 56 71 Eighth true
+EndM
+BeginM
+Note 0 71 Eighth false
+Note 8 72 Sixteenth false
+Note 12 71 Sixteenth false
+Note 16 74 Sixteenth false
+Note 20 71 Sixteenth false
+Note 24 71 Sixteenth false
+Note 28 74 Sixteenth false
+Note 32 71 Sixteenth false
+Note 36 76 Sixteenth false
+Note 40 79 Sixteenth false
+Note 44 71 Sixteenth false
+Note 48 69 Quarter false
+EndM
+BeginM
+Note 0 71 Whole false
+EndM
+BeginM
+Note 0 86 Quarter false
+Note 16 84 Quarter false
+Note 32 83 Quarter false
+Note 48 79 Quarter false
+EndM
+BeginM
+Note 0 77 Quarter false
+Note 16 76 Quarter false
+Note 32 74 Quarter false
+Note 48 72 Quarter false
+EndM
+BeginM
+Note 0 67 Quarter false
+Note 16 71 Eighth false
+Note 24 72 Eighth false
+Note 32 74 Quarter false
+Note 48 79 Quarter false
+EndM
+BeginM
+Note 0 71 Whole false
+EndM
+EndST
+BeginST
+0
+Piano 1     
+BeginM
+Note 0 62 Half false
+Note 32 67 Half false
+EndM
+BeginM
+Note 0 59 Half false
+Note 32 67 Half false
+EndM
+BeginM
+Note 0 62 Half false
+Note 32 65 Half false
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Note 0 60 Half false
+Note 32 64 Half false
+EndM
+BeginM
+Note 0 60 Half false
+Note 32 62 Half false
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Note 0 57 Half false
+Note 32 64 Half false
+EndM
+BeginM
+Note 0 62 Half false
+Note 32 67 Half false
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Note 0 62 Half false
+Note 32 65 Half false
+EndM
+BeginM
+Note 0 67 Half false
+Rest 32 Half
+EndM
+BeginM
+Note 0 71 Half false
+Note 32 62 Half false
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Note 0 79 Quarter false
+Rest 16 Quarter
+Rest 32 Half
+EndM
+BeginM
+Note 0 65 Quarter false
+Note 16 64 Quarter false
+Note 32 67 Quarter false
+Note 48 67 Quarter false
+EndM
+BeginM
+Note 0 62 Quarter false
+Rest 16 Quarter
+Note 32 69 Quarter false
+Note 48 72 Quarter false
+EndM
+BeginM
+Note 0 67 Whole false
+EndM
+EndST
+BeginST
+0
+Piano 1     
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Note 0 60 Half false
+Note 32 60 Half false
+EndM
+BeginM
+Note 0 64 Half false
+Rest 32 Half
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Rest 0 Whole
+EndM
+BeginM
+Note 0 62 Whole false
+EndM
+EndST
+BeginST
+0
+Piano 1     
+BeginM
+Note 0 55 Half false
+Note 32 62 Half false
+EndM
+BeginM
+Note 0 55 Half false
+Note 32 62 Half false
+EndM
+BeginM
+Note 0 53 Half false
+Note 32 60 Half false
+EndM
+BeginM
+Note 0 64 Whole false
+EndM
+BeginM
+Note 0 48 Half false
+Note 32 59 Half false
+EndM
+BeginM
+Note 0 55 Half false
+Note 32 53 Half false
+EndM
+BeginM
+Note 0 50 Half false
+Note 32 48 Half false
+EndM
+BeginM
+Note 0 48 Whole false
+EndM
+BeginM
+Note 0 57 Quarter false
+Note 16 59 Quarter false
+Note 32 60 Quarter false
+Note 48 62 Quarter false
+EndM
+BeginM
+Note 0 50 Quarter false
+Note 16 59 Quarter false
+Note 32 60 Quarter false
+Note 48 62 Quarter false
+EndM
+BeginM
+Rest 0 Quarter
+Note 16 60 Quarter false
+Note 32 62 Quarter false
+Note 48 64 Quarter false
+EndM
+BeginM
+Note 0 48 Half false
+Rest 32 Half
+EndM
+BeginM
+Note 0 57 Quarter false
+Note 16 59 Quarter false
+Note 32 60 Quarter false
+Note 48 62 Quarter false
+EndM
+BeginM
+Note 0 50 Quarter false
+Note 16 59 Quarter false
+Note 32 60 Quarter false
+Note 48 62 Quarter false
+EndM
+BeginM
+Rest 0 Quarter
+Note 16 60 Quarter false
+Note 32 62 Quarter false
+Note 48 64 Quarter false
+EndM
+BeginM
+Note 0 48 Half false
+Rest 32 Half
+EndM
+BeginM
+Note 0 55 Half false
+Note 32 50 Half false
+EndM
+BeginM
+Note 0 48 Half false
+Note 32 55 Half false
+EndM
+BeginM
+Note 0 48 Half false
+Note 32 55 Half false
+EndM
+BeginM
+Note 0 48 Whole false
+EndM
+EndST
+EndSheet
